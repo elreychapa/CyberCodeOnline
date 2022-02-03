@@ -1150,7 +1150,7 @@
  	 	},
  	 	"chatExploitProtect": {
  	 	 	"name": {
- 	 	 	 	"trans": "CyberTunnel VPN",
+ 	 	 	 	"trans": "CyberTunel VPN",
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
@@ -1160,7 +1160,7 @@
  	 	},
  	 	"hackTool": {
  	 	 	"name": {
- 	 	 	 	"trans": "Cápsula de vulnerabilidad",
+ 	 	 	 	"trans": "Fragmento de Protocolo de Ruptura",
  	 	 	 	"eng": "Protocol Breach Shard"
  	 	 	},
  	 	 	"description": {
@@ -1820,7 +1820,7 @@
  	 	 	 	 	"eng": "add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
- 	 	 	 	 	"trans": "Remover de la lista de Amigos",
+ 	 	 	 	 	"trans": "Eliminar de la lista de Amigos",
  	 	 	 	 	"eng": "Remove from Friend List"
  	 	 	 	},
  	 	 	 	"giveStreetCred": {
@@ -1845,7 +1845,7 @@
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"changePicture": {
- 	 	 	 	"trans": "La imagen de perfil personalizada es una característica exclusiva de Los Donadores",
+ 	 	 	 	"trans": "La imagen de perfil personalizada es una característica exclusiva de Los Donantes",
  	 	 	 	"eng": "Custom profile image is a donator exclusive feature"
  	 	 	},
  	 	 	"changePictureDescription": {
@@ -2095,7 +2095,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Flatlined",
+ 	 	 	 	"trans": "Desconectado",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -2356,11 +2356,11 @@
  	 	 	 	}
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "Posibilidad de falla crítica",
+ 	 	 	 	"trans": "Posibilidad de fallo crítico",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"selectEquipmentTitle": {
- 	 	 	 	"trans": "Por favor seleccione un Objeto para calibrar",
+ 	 	 	 	"trans": "Por favor seleccione un Objeto a calibrar",
  	 	 	 	"eng": "Please select an item to calibrate"
  	 	 	},
  	 	 	"upgradeButton": {
@@ -3236,7 +3236,7 @@
  	 	 	 	"eng": "social"
  	 	 	},
  	 	 	"keys": {
- 	 	 	 	"trans": "teclas",
+ 	 	 	 	"trans": "llaves",
  	 	 	 	"eng": "keys"
  	 	 	},
  	 	 	"profile": {
